@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+What it do baby
+
+Just a kid trying to make it out here
